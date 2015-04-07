@@ -1,0 +1,70 @@
+baseurl: /core-values
+markdown: redcarpet
+name: 18F Core Values
+description: >
+  Statement of 18F core values that inform our culture and working models
+
+permalink: pretty
+
+# Author/Organization info to be displayed in the templates
+author:
+  name: 18F
+  url: https://18f.gsa.gov
+
+# Point the logo URL at a file in your repo or hosted elsewhere by your organization
+logourl: /assets/img/18f-logo.png
+logoalt: 18F logo
+
+# Navigation
+# List links that should appear in the site sidebar here
+navigation:
+- text: Intro
+  url: index.html
+  internal: true
+- text: Transparency
+  url: transparency/
+  internal: true
+- text: Collaboration
+  url: collaboration/
+  internal: true
+- text: Autonomy
+  url: autonomy/
+  internal: true
+- text: Self-Disruption
+  url: self-disruption/
+  internal: true
+- text: Cross-Pollination
+  url: cross-pollination/
+  internal: true
+- text: Operational Improvement
+  url: operational-improvement/
+  internal: true
+- text: Delivery
+  url: delivery/
+  internal: true
+- text: Listening
+  url: listening/
+  internal: true
+- text: Cross-Functional Teams
+  url: cross-functional-teams/
+  internal: true
+- text: Failing/Learning Fast
+  url: failing-learning-fast/
+  internal: true
+- text: Humor
+  url: humor/
+  internal: true
+- text: Iteration
+  url: iteration/
+  internal: true
+- text: Insight
+  url: insight/
+  internal: true
+
+repos:
+- name: 18F Core Values
+  description: Main repository
+  url: https://github.com/18F/core-values
+
+# Style Variables
+brand_color: "#1188ff"
