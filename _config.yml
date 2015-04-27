@@ -1,5 +1,4 @@
-baseurl: /core-values-draft
-destination: _site/core-values-draft
+baseurl: /core-values
 markdown: redcarpet
 name: 18F Core Values [DRAFT]
 description: >
