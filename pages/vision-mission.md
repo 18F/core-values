@@ -6,11 +6,11 @@ title: Vision and Mission
 
 Our **vision** is our ultimate goal. When we succeed, how will the world be changed? _Where_ are we going?
 
-This is distinct from our mission; _what_ we will need to do in order to get to that future world, or our [values](core-values/index.html): how we're going to do it.
+This is distinct from our **mission**; _what_ we will need to do in order to get to that future world, or our [values](core-values/index.html): how we're going to do it.
 
 ## Problem statement
 
-If we think the world must change, it also means think that something is currently broken.
+If we think the world must change, it means we have concluded something is broken.
 
 Government does not work optimally because agencies are missing great:
 
