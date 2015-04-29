@@ -18,7 +18,7 @@ Government does not work optimally because agencies are missing great:
 * talent
 * tools
 
-# Vision
+## Vision
 
 A Government that:
 
@@ -26,7 +26,7 @@ A Government that:
 * has great teams of technologists
 * builds, or buys, great tools and services, more quickly, for less
 
-# Mission
+## Mission
 
 18F is a civic consultancy for the Government, inside the Government, working with Federal agencies to rapidly deploy tools and services that are easy to use, cost efficient, and reusable. 
 
