@@ -8,7 +8,7 @@ Our **vision** is our ultimate goal. When we succeed, how will the world be chan
 
 This is distinct from our **mission**; _what_ we will need to do in order to get to that future world, or our [values](core-values/index.html): how we're going to do it.
 
-## Problem statement
+### Problem statement
 
 If we think the world must change, it means we have concluded something is broken.
 
