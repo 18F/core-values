@@ -6,7 +6,7 @@ title: Vision and Mission
 
 Our **vision** is our ultimate goal. When we succeed, how will the world be changed? _Where_ are we going?
 
-This is distinct from our [mission](../mission); _what_ we will need to do in order to get to that future world, or our [values](/core-values/index.html): how we're going to do it.
+This is distinct from our mission; _what_ we will need to do in order to get to that future world, or our [values](core-values/index.html): how we're going to do it.
 
 ## Problem statement
 
@@ -18,7 +18,7 @@ Government does not work optimally because agencies are missing great:
 * talent
 * tools
 
-# Our Vision
+# Vision
 
 A Government that:
 
@@ -39,4 +39,4 @@ We will accomplish our mission by:
 * putting the needs of the public first
 * being design-centric, agile, open, and data-driven
 * deploying tools and services early and often
-* staying true to our [values](/core-values/index.html)
+* staying true to our [values](core-values/index.html)
