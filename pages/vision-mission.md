@@ -37,8 +37,7 @@ A Government that:
 
 We are transforming government from the inside out, creating **cultural change** by working with teams inside agencies who want to create great services for the public. 
 
-We are a **trusted partner** for agencies working to transform how they build and buy tools and services in a user-centered way. 
-
+We are a **trusted partner** for agencies working to transform how they build and buy tools and services in a user-centered way.
 
 We will accomplish our mission by:
 
@@ -46,3 +45,11 @@ We will accomplish our mission by:
 * being design-centric, agile, open, and data-driven
 * deploying tools and services early and often
 
+## Core Values
+(Our [values](core-values/index.html) are being drafted [here](https://github.com/18F/core-values/tree/18f-pages/pages).)
+* [Making Government Work Better](core-values/making-government-work-better/)
+* [Transparency](core-values/transparency/)
+* [Integrity](core-values/integrity/)
+* [Shared Responsibility](core-values/shared-responsibility/)
+* [Shipping](core-values/shipping/)
+* [Autonomy](core-values/autonomy/)
