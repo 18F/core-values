@@ -4,9 +4,14 @@ permalink: vision-mission/
 title: Vision and Mission
 ---
 
-Our **vision** is our ultimate goal. When we succeed, how will the world be changed? _Where_ are we going?
+### Terms
+**Vision** — What is the change that we want to see in the world? How is the world different if we succeed?
 
-This is distinct from our **mission**; _what_ we will need to do in order to get to that future world, or our [values](core-values/index.html): how we're going to do it.
+**Mission** — Our “North Star” that will guide us toward the vision / ultimate goal.
+
+**Core Values** — Guiding principles that dictate behavior and action, enabling the team to deliver on the mission.
+
+**Anti-Values** — Acknowledging situations that have a predictably bad outcome. 
 
 ### Problem statement
 
@@ -24,19 +29,20 @@ A Government that:
 
 * responds to public needs, with public participation/engagement
 * has great teams of technologists
-* builds, or buys, great tools and services, more quickly, for less
+* builds or buys great tools and services, more quickly, for less
 
 ## Mission
 
-18F is a civic consultancy for the Government, inside the Government, working with Federal agencies to rapidly deploy tools and services that are easy to use, cost efficient, and reusable. 
+18F is a civic consultancy _for_ the Government, _inside_ the Government, working with agencies to rapidly deploy tools and services that are easy to use, cost efficient, and reusable. 
 
 We are transforming government from the inside out, creating **cultural change** by working with teams inside agencies who want to create great services for the public. 
 
-We are a **trusted partner** for agencies working to transform how they build and buy tools and services.
+We are a **trusted partner** for agencies working to transform how they build and buy tools and services in a user-centered way. 
+
 
 We will accomplish our mission by:
 
 * putting the needs of the public first
 * being design-centric, agile, open, and data-driven
 * deploying tools and services early and often
-* staying true to our [values](core-values/index.html)
+
