@@ -53,3 +53,18 @@ We will accomplish our mission by:
 * [Shared Responsibility](core-values/shared-responsibility/)
 * [Shipping](core-values/shipping/)
 * [Autonomy](core-values/autonomy/)
+
+## “Anti-Values”
+In order to deliver on our mission, it is important to acknowledge the following truths. _(This is very much in draft mode.)_
+
+**We are not...**
+* interested in projects that simply redesign a website
+* a body shop (one-off requests that are not product focused) or an Enterprise Resource Planning (ERP) shop
+* a fire-fighting / rescue squad (be careful when approaching)
+* GSA’s internal digital service team
+* a contractor
+* the CIO shop / FAS / etc.
+* going to build you a CMS
+* COTS implementors (but we will re-sell COTS)
+* a helpdesk / free advice
+* able to tolerate an end-run around our intake process, no matter the stakeholder
