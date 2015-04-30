@@ -45,8 +45,8 @@ We will accomplish our mission by:
 * being design-centric, agile, open, and data-driven
 * deploying tools and services early and often
 
-## Core Values
-(Our [values](core-values/index.html) are being drafted [here](https://github.com/18F/core-values/tree/18f-pages/pages).)
+## Core Values [DRAFT]
+_Our [values](core-values/index.html) are a result of the all-team Core Values Workshop, April 22, 2015. [Contribute and edit!](https://github.com/18F/core-values/tree/18f-pages/pages)_
 * [Making Government Work Better](core-values/making-government-work-better/)
 * [Transparency](core-values/transparency/)
 * [Integrity](core-values/integrity/)
@@ -54,8 +54,8 @@ We will accomplish our mission by:
 * [Shipping](core-values/shipping/)
 * [Autonomy](core-values/autonomy/)
 
-## “Anti-Values”
-In order to deliver on our mission, it is important to acknowledge the following truths. _(This is very much in draft mode.)_
+## “Anti-Values” [DRAFT]
+In order to deliver on our mission, it is important to acknowledge the following truths.
 
 **We are not...**
 * interested in projects that simply redesign a website
