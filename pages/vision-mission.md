@@ -27,23 +27,23 @@ Government does not work optimally because agencies are missing great:
 
 A Government that:
 
-* responds to public needs, with public participation/engagement
-* has great teams of technologists
-* builds or buys great tools and services, more quickly, for less
+* responds to public needs, with public participation and engagement;
+* has great teams of technologists;
+* builds or buys excellent tools and services, more quickly, for less.
 
 ## Mission
 
-18F is a civic consultancy _for_ the Government, _inside_ the Government, working with agencies to rapidly deploy tools and services that are easy to use, cost efficient, and reusable. 
+18F is a civic consultancy _for_ the Government, _inside_ the Government, enabling agencies to rapidly deploy tools and services that are easy to use, cost efficient, and reusable. 
 
 We are transforming government from the inside out, creating **cultural change** by working with teams inside agencies who want to create great services for the public. 
 
-We are a **trusted partner** for agencies working to transform how they build and buy tools and services in a user-centered way.
+We are a **trusted partner** for agencies working to transform how they manage and deliver services to the public.
 
 We will accomplish our mission by:
 
-* putting the needs of the public first
-* being design-centric, agile, open, and data-driven
-* deploying tools and services early and often
+* putting the needs of the public first;
+* being design-centric, agile, open, and data-driven;
+* deploying tools and services early and often.
 
 ## Core Values [DRAFT]
 _Our [values](core-values/index.html) are a result of the all-team Core Values Workshop, April 22, 2015. [Contribute and edit!](https://github.com/18F/core-values/tree/18f-pages/pages)_
