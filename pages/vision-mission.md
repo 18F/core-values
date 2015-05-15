@@ -11,7 +11,7 @@ title: Vision and Mission
 
 **Core Values** — Guiding principles that dictate behavior and action, enabling the team to deliver on the mission.
 
-**Anti-Values** — Acknowledging situations that have a predictably bad outcome. 
+**What we're not** — Acknowledging roles that have a predictably bad outcome. 
 
 ### Problem statement
 
@@ -54,17 +54,17 @@ _Our [values](core-values/index.html) are a result of the all-team Core Values W
 * [Shipping](core-values/shipping/)
 * [Autonomy](core-values/autonomy/)
 
-## “Anti-Values” [DRAFT]
+## “What we're not” [DRAFT]
 In order to deliver on our mission, it is important to acknowledge the following truths.
 
 **We are not...**
-* interested in projects that simply redesign a website
+
 * a body shop (one-off requests that are not product focused) or an Enterprise Resource Planning (ERP) shop
-* a fire-fighting / rescue squad (be careful when approaching)
-* GSA’s internal digital service team
-* a contractor
-* the CIO shop / FAS / etc.
-* going to build you a CMS
-* COTS implementors (but we will re-sell COTS)
-* a helpdesk / free advice
 * able to tolerate an end-run around our intake process, no matter the stakeholder
+* [COTS](http://en.wikipedia.org/wiki/Commercial_off-the-shelf) implementors (but we will re-sell and add value to COTS!)
+* interested in projects that simply redesign a website
+* GSA’s internal digital service team (coming soon!)
+* GSA CIO's or the Federal Acquisition Service
+* a fire-fighting / rescue squad
+* a helpdesk / free advice
+* a contractor
