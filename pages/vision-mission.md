@@ -61,7 +61,7 @@ In order to deliver on our mission, it is important to acknowledge the following
 
 * a body shop (one-off requests that are not product focused) or an Enterprise Resource Planning (ERP) shop
 * able to tolerate an end-run around our intake process, no matter the stakeholder
-* [COTS](http://en.wikipedia.org/wiki/Commercial_off-the-shelf) implementors (but we will re-sell and add value to COTS!)
+* [COTS](http://en.wikipedia.org/wiki/Commercial_off-the-shelf) implementers (but we will re-sell and add value to COTS!)
 * interested in projects that simply redesign a website
 * GSA’s internal digital service team (coming soon!)
 * GSA CIO's or the Federal Acquisition Service
